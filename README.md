@@ -25,7 +25,7 @@ I am a Data Scientist and Statistician with a passion for transforming data into
     
  **Fun Fact About Me🎉**
  
- -I have a unique relationship with the French language! While I can read French fluently, I only understand a few words when it comes to conversation. This leaves me pondering: does that make me a beginner or an intermediate speaker? 🤔
+ - I have a unique relationship with the French language! While I can read French fluently, I only understand a few words when it comes to conversation. This leaves me pondering: does that make me a beginner or an intermediate speaker? 🤔
 
 <!---
 Joycemukolwe/Joycemukolwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
