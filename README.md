@@ -6,11 +6,11 @@ I am a Data Scientist and Statistician with a passion for transforming data into
 
 **Skills**
 
-    - **Programming Languages** : R, Python, SQL, Bash scripting
+    - Programming Languages : R, Python, SQL, Bash scripting
     
-    - **Software Tools** : QGIS, Geo Da, SPSS, Microsoft Office Suite, LaTeX
+    - Software Tools : QGIS, Geo Da, SPSS, Microsoft Office Suite, LaTeX
     
-    - **Competencies** : Statistical Analysis, Machine Learning, Generative AI Prompt Engineering, Technical Writing, Data Analytics, Risk Management
+    - Competencies: Statistical Analysis, Machine Learning, Generative AI Prompt Engineering, Technical Writing, Data Analytics, Risk Management
     
 **Research & Projects**
 
