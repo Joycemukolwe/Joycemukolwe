@@ -25,9 +25,9 @@ I am a Data Scientist and Statistician with a passion for transforming data into
      
  **📊Decision Tree Classifier on COVID-19 Dataset**
    - Implemented a decision tree classifier to visualize factors influencing COVID-19 outcomes.
-   - 
+    
  **Fun Fact About Me 🎉**
-   I have a unique relationship with the French language! While I can read French fluently, I only understand a few words when it comes to conversation. This leaves me pondering: does that make me a beginner or an intermediate speaker? 🤔
+   -I have a unique relationship with the French language! While I can read French fluently, I only understand a few words when it comes to conversation. This leaves me pondering: does that make me a beginner or an intermediate speaker? 🤔
 
 <!---
 Joycemukolwe/Joycemukolwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
