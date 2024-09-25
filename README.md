@@ -27,7 +27,7 @@ I am a Data Scientist and Statistician with a passion for transforming data into
    - Implemented a decision tree classifier to visualize factors influencing COVID-19 outcomes.
      
 **Let's Connect!**
-- I am always eager to collaborate on exciting projects or discuss innovative ideas in data science. Feel free to reach out via email [Email Me](mailto:mukolwejoyce0@gmail.com) or connect with me on  [LinkedIn](linkedin.com/in/mukolwe.)
+- I am always eager to collaborate on exciting projects or discuss innovative ideas in data science. Feel free to reach out via email [Email Me](mailto:mukolwejoyce0@gmail.com) or connect with me on  (linkedin.com/in/mukolwe.)
     
  **Fun Fact About Me🎉**
  
