@@ -6,7 +6,7 @@ I am a Data analyst and Statistician with a passion for transforming data into a
 
 **Skills**
 
-    - Programming Languages : R, Python, SQL, Bash scripting
+    - Programming Languages : R, Python, SQL, Power Bi
     
     - Software Tools : QGIS, Geo Da, SPSS, Microsoft Office Suite, LaTeX
     
