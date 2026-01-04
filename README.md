@@ -2,7 +2,8 @@
 ------------------------------------------------------------------------------------------------------
 **About Me**
 
-I am a Data analyst and Statistician with a passion for transforming data into actionable insights. My journey in data science is driven by a desire to tackle real-world challenges and contribute to innovative solutions. I hold a Structured Master's degree in Data Science from the African Institute for Mathematical Sciences (AIMS) Cameroon and a Bachelor's degree in Actuarial Science from Tom Mboya University, Kenya.
+I am a Data analyst\ professional freelancer specializing in academic writing, data analysis, and career support services.
+I help students, researchers, and professionals produce high-quality, well-structured, and data-driven work that meets international standards. My journey in data science is driven by a desire to tackle real-world challenges and contribute to innovative solutions. I hold a Structured Master's degree in Data Science from the African Institute for Mathematical Sciences (AIMS) Cameroon and a Bachelor's degree in Actuarial Science from Tom Mboya University, Kenya.
 
 **Skills**
 
