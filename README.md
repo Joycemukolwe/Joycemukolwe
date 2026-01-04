@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------------------------------------
 **About Me**
 
-I am a Data Scientist and Statistician with a passion for transforming data into actionable insights. My journey in data science is driven by a desire to tackle real-world challenges and contribute to innovative solutions. I hold a Master's degree in Data Science from the African Institute for Mathematical Sciences (AIMS) Cameroon and a Bachelor's degree in Actuarial Science from Tom Mboya University, Kenya.
+I am a Data analyst and Statistician with a passion for transforming data into actionable insights. My journey in data science is driven by a desire to tackle real-world challenges and contribute to innovative solutions. I hold a Structured Master's degree in Data Science from the African Institute for Mathematical Sciences (AIMS) Cameroon and a Bachelor's degree in Actuarial Science from Tom Mboya University, Kenya.
 
 **Skills**
 
@@ -14,7 +14,7 @@ I am a Data Scientist and Statistician with a passion for transforming data into
     
 **Research & Projects**
 
-  **🌍Spatial Epidemiology Analysis of COVID-19 in Africa** -*paper still under review*
+  **🌍Spatial Epidemiology Analysis of COVID-19 in Africa** -*published paper*
   - Explored the relationship between COVID-19 spread and vaccine coverage using spatial econometrics.
     
   **🦠Survival Analysis of Malaria in Children**
